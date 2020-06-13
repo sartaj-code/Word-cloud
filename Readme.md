@@ -9,9 +9,13 @@ A ‘word cloud’ is a visual representation of word frequency. The more common
 This script requires Python 3 or greater. It is not compatible with Python 2.7.
 
 !pip install wordcloud
+
 !pip install fileupload
+
 !pip install ipywidgets
+
 !jupyter nbextension install --py --user fileupload
+
 !jupyter nbextension enable --py fileupload
 
 ## Steps to Visualize
