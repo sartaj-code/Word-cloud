@@ -20,5 +20,7 @@ This script requires Python 3 or greater. It is not compatible with Python 2.7.
 
 ## Steps to Visualize
 
+First upload your text file in browse button.
+
 To run the script, from a jupyter notebook:
 
